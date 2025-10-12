@@ -3,7 +3,7 @@
 A comprehensive full-stack micro-investment platform that helps users save and invest their spare change automatically. Built with FastAPI backend and React frontend, featuring transaction roundups, wallet management, money transfers, portfolio tracking with real-time P&L, Razorpay payment integration, and gamification elements.
 
 ---
-
+<!-- test -->
 ## 📑 Table of Contents
 - [Quick Start](#-quick-start)
 - [Features](#-features)
@@ -707,5 +707,6 @@ Built with ❤️ for the hackathon by Muhammed Saheer Khan
 - **Vite** - Lightning-fast frontend build tool
 - **SQLAlchemy** - Powerful ORM for database operations
 - **Axios** - Promise-based HTTP client
-#   M i c r o - I n v e s t m e n t - W e b - A p p  
+#   M i c r o - I n v e s t m e n t - W e b - A p p 
+ 
  
