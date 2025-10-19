@@ -1,6 +1,7 @@
 # 💰 Micro-Investment Web Application
 
-A comprehensive full-stack micro-investment platform that helps users save and invest their spare change automatically. Built with FastAPI backend and React frontend, featuring transaction roundups, wallet management, money transfers, portfolio tracking with real-time P&L, Razorpay payment integration, and gamification elements.
+A comprehensive full-stack micro-investment platform that helps users save and invest their spare change automatically. Built with FastAPI backend and React frontend, featuring transaction roundups, wallet management, money transfers, portfolio tracking with real-time P&L, Razorpay payment integration, and gamification elements..
+
 
 ---
 <!-- test -->
