@@ -47,4 +47,4 @@ npm run dev
 # Sign up → Add Mock Transactions → Select Portfolio → Invest!
 ```
 
-...(content truncated for brevity)...
+
